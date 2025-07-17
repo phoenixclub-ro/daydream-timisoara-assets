@@ -1,10 +1,10 @@
-Title: Daydream Singapore: Request for a Venue
+Subject: Daydream Singapore: Request for a Venue
 ---
-Dear Sir/Madam
+Dear Sir/Madam,
 
-I hope this email finds you well. My name is _(insert name)_, a _(insert grade)_ student and member of Hack Club, a global open-source community for teenagers interested in coding and technical projects. We're organizing Daydream Singapore this year, and we would like to request for a venue to conduct our hackathon at.
+I hope this email finds you well. My name is _(insert name)_, a _(insert grade)_ student and member of Hack Club, a global open-source community for teenagers interested in coding and technical projects. We're organizing Daydream Singapore this year, and we would like to request the use of your venue for our hackathon.
 
-On September 27th, we're organizing Daydream Singapore, a 24-hour hackathon for over 100 teenagers across Singapore. We'd like to request for the usage of your venue.
+On September 27th, we're organizing Daydream (insert event place), a 24-hour hackathon for over 100 teenagers across Singapore. We'd like to request the usage of your venue.
 
 Daydream is a beginner-friendly game jam, where teenagers collaborate to build games over 24 hours. It provides an opportunity for students to experience the joy of coding and creation in a fun, collaborative environment. This event is part of a larger global initiative, with hackathons running simultaneously in over 100 cities.
 
