@@ -9,3 +9,4 @@ The files in the "Assets" folder are from Hack Club's official [Daydream](https:
 **Graphics** → Figma files if you want your own logo and/or the header and footer images.<br>
 **Document templates** → templates for your documents in Word and Pages<br>
 **Presentation templates** → templates for the actual event in (Will be added in the future, currently just an empty folder)
+**Sponsorship Prospectus** → Folder of some sample sponsorship prospectus, designed around Daydream Singapore. You can modify it for your Daydream tho!
